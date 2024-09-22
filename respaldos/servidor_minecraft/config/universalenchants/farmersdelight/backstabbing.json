@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:knife"
+  ],
+  "incompatible": [
+    "goldenfoods:gf_enchantment"
+  ]
+}

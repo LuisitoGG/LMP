@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:raygun"
+  ],
+  "incompatible": [
+    "goldenfoods:gf_enchantment",
+    "alexscaves:gamma_ray"
+  ]
+}

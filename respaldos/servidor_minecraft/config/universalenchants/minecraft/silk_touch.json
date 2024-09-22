@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger",
+    "twilightforest:block_and_chain",
+    "quark:pickarang",
+    "quark:flamerang",
+    "buildinggadgets2:gadget_exchanging"
+  ],
+  "incompatible": [
+    "goldenfoods:gf_enchantment",
+    "minecraft:looting",
+    "minecraft:luck_of_the_sea",
+    "minecraft:fortune"
+  ]
+}

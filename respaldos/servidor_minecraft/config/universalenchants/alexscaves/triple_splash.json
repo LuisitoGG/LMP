@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:sea_staff"
+  ],
+  "incompatible": [
+    "goldenfoods:gf_enchantment",
+    "alexscaves:bouncing_bolt"
+  ]
+}

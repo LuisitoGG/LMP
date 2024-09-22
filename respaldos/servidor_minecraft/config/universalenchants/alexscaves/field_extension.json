@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:galena_gauntlet"
+  ],
+  "incompatible": [
+    "goldenfoods:gf_enchantment"
+  ]
+}

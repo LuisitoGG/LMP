@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "cde9bcecb56038ed82a6ffc312ae5a87"
+	name: "LuisitoGG#cde9bcec"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

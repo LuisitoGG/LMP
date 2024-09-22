@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:dynamic_projectile_fast_spin"
+  ],
+  "incompatible": [
+    "goldenfoods:gf_enchantment"
+  ]
+}

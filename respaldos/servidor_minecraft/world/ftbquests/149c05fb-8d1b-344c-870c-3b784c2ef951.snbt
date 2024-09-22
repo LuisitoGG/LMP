@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "149c05fb8d1b344c870c3b784c2ef951"
+	name: "YaddirLee19#149c05fb"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

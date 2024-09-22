@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:magic_conch"
+  ],
+  "incompatible": [
+    "goldenfoods:gf_enchantment"
+  ]
+}

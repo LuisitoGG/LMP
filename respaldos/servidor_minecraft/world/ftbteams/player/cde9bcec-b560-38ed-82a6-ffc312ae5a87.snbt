@@ -1,0 +1,17 @@
+{
+	id: "cde9bcec-b560-38ed-82a6-ffc312ae5a87"
+	type: "player"
+	player_name: "LuisitoGG"
+	ranks: {
+		cde9bcec-b560-38ed-82a6-ffc312ae5a87: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LuisitoGG"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59F5FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

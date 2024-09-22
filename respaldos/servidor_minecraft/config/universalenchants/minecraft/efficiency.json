@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger",
+    "twilightforest:block_and_chain",
+    "quark:pickarang",
+    "quark:flamerang"
+  ],
+  "incompatible": [
+    "goldenfoods:gf_enchantment",
+    "minecraft:piercing"
+  ]
+}

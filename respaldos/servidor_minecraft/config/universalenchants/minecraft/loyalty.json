@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:trident",
+    "hunters_return:boomerang",
+    "blue_skies:soulbound_spear",
+    "blue_skies:bluebright_spear",
+    "blue_skies:starlit_spear",
+    "blue_skies:frostbright_spear",
+    "blue_skies:lunar_spear",
+    "blue_skies:dusk_spear",
+    "blue_skies:maple_spear",
+    "blue_skies:comet_spear",
+    "aether_redux:spear_of_the_blight",
+    "cataclysm:coral_spear",
+    "cataclysm:coral_bardiche",
+    "supplementaries:slingshot"
+  ],
+  "incompatible": [
+    "goldenfoods:gf_enchantment",
+    "minecraft:riptide"
+  ]
+}

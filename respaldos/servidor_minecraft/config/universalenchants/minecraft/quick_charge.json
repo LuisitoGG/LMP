@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:crossbow",
+    "supplementaries:slingshot",
+    "$minecraft:trident",
+    "$minecraft:bow"
+  ],
+  "incompatible": [
+    "goldenfoods:gf_enchantment"
+  ]
+}
